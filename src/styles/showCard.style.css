@@ -1,0 +1,16 @@
+.bgCS{
+    background-color: black;
+    width: 25%;
+    height: 100%;
+    border-radius: 25px;
+    color: white;
+    
+}
+.card{
+    background-color: rgba(0, 0, 0, 0.663);
+    color: white;
+}
+.image{
+    border-radius: 25px
+    ;
+}
